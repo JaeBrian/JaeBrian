@@ -1,3 +1,6 @@
+Linked In
+https://www.linkedin.com/in/brian-jaekook-lee/
+
 My Tech Stacks
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
